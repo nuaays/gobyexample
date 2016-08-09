@@ -15,3 +15,5 @@ hello world
 
 # Now that we can run and build basic Go programs, let's
 # learn more about the language.
+
+go build -o test  hello-world.go
